@@ -22,3 +22,6 @@ function clearLights() {
   document.getElementById('slow-Light').style.backgroundColor = "black";
   document.getElementById('go-Light').style.backgroundColor = "black";
 }
+
+
+// console.log("Git practice");
